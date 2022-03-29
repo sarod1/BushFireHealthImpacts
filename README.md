@@ -1,0 +1,2 @@
+# BushFireHealthImpacts
+This project will analyse the data of number of all GP and respiratory test MBS item claimed by week in the Australian States New South Wales, Victoria and the Australian Capital Territory for the years 2017–18 to 2019–20. This project will also analyse the number of adrenergics and inhalants prescriptions dispensed from September 2019 to February 2020, in order to explore the short term effects of bushfire in the previous years.
